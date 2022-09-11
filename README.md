@@ -4,7 +4,7 @@
 <br />
 
 ## Installation Instructions
-1. Download this repo or download the ZIP folder here https://github.com/BooDeer/GithubMask/miscellaneous/chrome.zip then unzip it.
+1. Download this repo or download the ZIP folder here [https://github.com/BooDeer/GithubMask/miscellaneous/chrome.zip](https://github.com/BooDeer/GithubMask/raw/main/miscellaneous/chrome.zip) then unzip it.
 1. Open your Chrome browser and go to the extensions page. 
 1. Enable Developer Mode.
 1. Drag the `chrome` folder to import it.
